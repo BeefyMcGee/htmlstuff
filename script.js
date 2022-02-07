@@ -26,5 +26,5 @@ function animate() {
 let ball = new Ball(30,30,30);
 
 while (true) {
-    console.log("pranav is not a monkey");
+    document.getElementById("cool").style.color = "red"
 }
