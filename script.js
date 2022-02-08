@@ -1,4 +1,4 @@
-/*canvas = document.querySelector("canvas");
+canvas = document.querySelector("canvas");
 ctx = canvas.getContext("2d")
 width = canvas.width = window.innerWidth;
 height = canvas.height = window.innerHeight;
@@ -25,4 +25,4 @@ function animate() {
 
 let ball = new Ball(30,30,30);
 
-animate();*/
+animate();
