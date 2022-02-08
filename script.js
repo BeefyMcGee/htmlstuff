@@ -16,7 +16,7 @@ class Ball {
 		ctx.fill();
         ctx.closePath();
     };
-}
+};
 
 function animate() {
     ball.draw();
