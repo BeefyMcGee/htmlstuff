@@ -25,6 +25,4 @@ function animate() {
 
 let ball = new Ball(30,30,30);
 
-while (true) {
-    document.getElementById("cool").style.color = "red"
-}
+animate();
